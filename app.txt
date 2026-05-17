@@ -4,7 +4,7 @@
         "ads_data": "{\"sdk_key\":\"gjfj\",\"banner_ad_id\":\"ckck\",\"inter_ad_id\":\"ckck\",\"native_ad_id\":\"xjc\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.cricket.update.live",
         "web_url": "https:\/\/example.com",
-        "app_version": "5",
+        "app_version": "0",
         "message": "We Need Your Support Give us 5 Star \ud83c\udf1f Rating",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.cricketlive.tvr.cricketlive.startv",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.cricketlive.tvr.cricketlive.startv",
